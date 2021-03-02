@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename compilation unit &apos;Project_01.IllegalDate.java&apos; to &apos;IllegalDateException.java&apos;&#x0D;&#x0A;- Original project: &apos;CMSC-315&apos;&#x0D;&#x0A;- Original element: &apos;Project_01.IllegalDate.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Project_01.IllegalDateException.java&apos;" description="Rename compilation unit &apos;IllegalDate.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;Project_01{IllegalDate.java" name="IllegalDateException.java" references="false" stamp="1598924628336" version="1.0"/>
-</session>
