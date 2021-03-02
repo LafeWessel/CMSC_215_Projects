@@ -1,0 +1,37 @@
+Create a class named Person with the following constructors and methods
+public Person(String first, String last)
+public String getFirstName()
+public void setFirstName(String first)
+public String getLastName()
+public void setLastName(String last)
+the class should override the toString() method so it returns the first and 
+	last name in this format (note the word 'name' is included in the format):  Name:  Frank Jones
+	
+Create a class named Customer that inherits from the Person class and contains 
+	the constructors and methods.
+public Customer(String first, String last, String number)
+public String getCustomerNumber()
+public void setCustomerNumber(String number)
+the class should override the toString() method so it returns the value returned by the toString() 
+	method of the Person class appended with the customer number. An example of the output is:  
+Name: Frank Jones
+Customer Number: J54128
+
+Create a class named Employee that inherits the Person class and contains the 
+	following constructors and methods
+public Employee (String first, String last, String ssn)
+public String getSsn()
+public void setSsn(String ssn)
+the getSSN() method should return a masked version of the social security number that 
+	only reveals the last four numbers
+the employee class should override the toString() method so it returns the value 
+	returned by the toString method of the Person class appended with the social security number.  
+		An example of output is:
+Name: Frank Jones
+SSN: xxx-xx-1111
+
+Implement entry validation as you see fit. As shown in the image, invalid input must be 
+	caught before processing can continue. Implement how you see is best (i.e. if-else statements, 
+	exception handling, etc).
+	
+Submission should be at least 4 files (three class files as described above and a tester file)

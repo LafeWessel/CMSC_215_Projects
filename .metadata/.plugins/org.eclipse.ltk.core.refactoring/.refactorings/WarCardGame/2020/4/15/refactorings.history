@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;LearningGuide9/src/WarGame&apos;&#x0D;&#x0A;- Original project: &apos;WarCardGame&apos;&#x0D;&#x0A;- Destination element: &apos;LearningGuide9/src/WarGame&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Card.java&#x0D;&#x0A;     War.java" description="Copy compilation units" destination="=LearningGuide9/src&lt;WarGame" element1="/src&lt;{Card.java" element2="/src&lt;{War.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1586231438826" units="2" version="1.0"/>
+</session>
